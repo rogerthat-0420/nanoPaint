@@ -10,7 +10,7 @@ It provides a user-friendly interface for drawing shapes, editing them, selectin
 - **Export**: Export drawings in TXT or XML formats.
 
 ## Contributors
-- Aditya Mishra
+- Kushang Agarwal
 - Kushal Shah
 - Prithvi Karthik
 - Tejas Cavale
